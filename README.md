@@ -1,1 +1,1 @@
-# Antika-D-kkani
+İlkel yollar ile hazırlanmış bir antika dükkanı.
