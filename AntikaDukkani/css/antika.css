@@ -1,0 +1,36 @@
+/******* Background *********/
+
+body {
+    background-color:gainsboro;
+}
+
+/******* Header and Nav ******/
+header {
+    font-size: 20px;
+    font-style: oblique;
+    text-align: center;
+}
+
+nav li{
+    display: inline-block;
+}
+
+/********* Heads ************/
+h1 {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/********** paragraphs *******/
+p {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/********** footer **********/
+
+footer {
+    font-style: oblique;
+    font-size: 15px;
+    text-align: center;
+}
